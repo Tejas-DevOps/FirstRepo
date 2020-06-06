@@ -8,3 +8,5 @@ public HelloWorld{
 
 This is a test line, modifying the file
 Adding second line for testing
+
+Adding a line to understand git diff command
